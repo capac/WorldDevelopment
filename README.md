@@ -6,4 +6,4 @@ The _World Development Indicators_ data are provided by Kaggle [here](https://ww
 
 For the most part, I'm doing some exploratory analysis on some key indicators in the data set:
 
- * Percentage change of companies managed by women from 2009 to 2013.
+ * Percentage change of companies managed by women from 2009 to 2013, in the _changes-in-companies-run-by-women.ipynb_ notebook.
